@@ -14,9 +14,10 @@ pipeline {
                     // or inside double quotes for string interpolation
                     echo "username is $USERNAME"
                     sh 'pwd'
-                    sh 'ls'
                     sh 'python main.py $USERNAME $PASSWORD'
                 }
+                sh '$TENANCY_NUMBER'
+                sh '$TENANCY_OWNER'
             }
         }
     }
