@@ -15,6 +15,7 @@ pipeline {
                     echo "username is $USERNAME"
                     sh 'pwd'
                     sh 'ls'
+                    sh 'python main.py e2etenancyrealmadmin 1'
                 }
             }
         }
