@@ -1,0 +1,55 @@
+# Ignores
+
+# General
+.bin
+*.log
+*.tmp
+*.swp
+*.svg
+
+# Credentials & Security
+.ssh_config
+*.pem
+credentials/
+
+# Dev tools
+dist
+.vscode
+*.dblite
+
+# Python
+*.pyc
+*.egg-info
+.eggs
+
+# Ruby
+.bundle
+.gems
+.env
+Gemfile.lock
+
+# Mac OS meta-files
+*.DS_Store
+
+# Terraform Build Products
+*.tfplan
+terraform.tfstate.*
+*.tfstate
+errored.tfstate
+.terraform
+root.tf.json
+
+# Directories 
+build/
+
+# ffmpeg
+*.stt
+*.webm
+
+# Terrakit Build Products
+*.verify
+*.nuke
+*.plan_nuke
+*.bigbang
+*.iterbuild
+*.journal
