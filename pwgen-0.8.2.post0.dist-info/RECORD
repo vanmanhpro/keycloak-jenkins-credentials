@@ -1,0 +1,13 @@
+../../../bin/pwgen,sha256=Tm9en5PIw7b068KZFn6neAulLoHYyb6b0KI03_8DE2I,286
+pwgen-0.8.2.post0.dist-info/DESCRIPTION.rst,sha256=A4JUzbcbAx_XvERpIEYJd5pRwZQuX7vbtPeRclZqKpU,65
+pwgen-0.8.2.post0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pwgen-0.8.2.post0.dist-info/METADATA,sha256=5hnmpws04VHHNHzTUc_F4GhLtMtGh7nLbK-Lavkgh0w,617
+pwgen-0.8.2.post0.dist-info/RECORD,,
+pwgen-0.8.2.post0.dist-info/WHEEL,sha256=F38j99qfcoNzHo88G-kisXWtI3MVVEd9JWjaAPcHMTc,93
+pwgen-0.8.2.post0.dist-info/entry_points.txt,sha256=g9FuTAZe5S2qkR4u9c3oDt8I_Ezapciqh6YzD4y1-ho,46
+pwgen-0.8.2.post0.dist-info/metadata.json,sha256=cMC0vv4Q64P0Zb23-DR37U7dRBQaPFeTBk2ZnT5Jcj0,900
+pwgen-0.8.2.post0.dist-info/top_level.txt,sha256=ZOKAjCXuqBjbRPslW_7HUTklT1RVROeiLHl6eDqsks0,6
+pwgen/__init__.py,sha256=Tbyg9pcVJHkUtfb2xoar7AZQnIKQrSQR21GvQ6WPZBo,3140
+pwgen/__init__.pyc,,
+pwgen/cmdline.py,sha256=XJK2QP1pQgx-XwzfnI5gtgZPO6pTodSOFPXcKL_svbY,2853
+pwgen/cmdline.pyc,,
