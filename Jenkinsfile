@@ -16,8 +16,8 @@ pipeline {
                     sh 'pwd'
                     sh 'python main.py $USERNAME $PASSWORD'
                 }
-                sh '$TENANCY_NUMBER'
-                sh '$TENANCY_OWNER'
+                sh 'echo $TENANCY_NUMBER'
+                sh 'echo $TENANCY_OWNER'
             }
         }
     }
